@@ -2,10 +2,10 @@ package question12;
 
 public class Final {
 
-	public final int age = 5;  
+	public final int sal = 5090;  
     public void display()
    {  
-    System.out.println("Age :" +age);
+    System.out.println("Sal :" +sal);
     }  
       
 
